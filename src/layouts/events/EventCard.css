@@ -1,0 +1,19 @@
+.event-card {
+  border: 1px solid #ccc;
+  padding: 16px;
+  margin: 16px;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.event-image {
+  width: 100%;
+  max-width: 200px;
+  height: auto;
+}
+
+.event-info {
+  text-align: center;
+}
